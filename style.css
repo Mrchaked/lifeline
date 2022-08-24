@@ -158,9 +158,6 @@ transform: scale(1.02px);
 
 
 
-.shoe-img{
-    border-radius: 5px;
-}
 
 .card h4{
     margin: 20px 10px 15px 15px;
@@ -537,10 +534,26 @@ contact Section Start
     color: orangered;
     font-size: 2rem;
 }
-/* end blog  */
 
 
 
+/* footer */
+
+    
+footer {
+    margin-top: 50px;
+
+    text-align: center;
+    padding: 25px;
+    color: rgb(53, 53, 53);
+    flex: content;
+    columns: 4;
+    font-size: 15px;
+    font-weight: bold;
+    background: radial-gradient(circle at 33% 100%, #ffe9b99f 4%, #d78f889a 30%, #eea9c991 62%, #afe4929d 85%);
+  
+  }
+  
 
 
 
